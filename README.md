@@ -1,2 +1,2 @@
 # Scrum
-Manage sprint using this repo
+Manage sprints using this repo
